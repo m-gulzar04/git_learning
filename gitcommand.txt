@@ -10,3 +10,7 @@ git commit -m "message"
 
 git rm -- cached filename
 
+git branch branchname    // to create a new branch
+
+git checkout branchname   // to switch to that branch
+
