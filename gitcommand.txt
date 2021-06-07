@@ -1,1 +1,12 @@
 this is the document contains the all git command
+
+git init
+
+git status
+
+git add .
+
+git commit -m "message"
+
+git rm -- cached filename
+
