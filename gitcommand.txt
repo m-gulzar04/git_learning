@@ -14,3 +14,5 @@ git branch branchname    // to create a new branch
 
 git checkout branchname   // to switch to that branch
 
+git commit -am "if i add a before m then we dont need to add the file"   
+
