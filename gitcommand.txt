@@ -10,3 +10,12 @@ git commit -m "message"
 
 git rm -- cached filename
 
+git branch branchname    // to create a new branch
+
+git checkout branchname   // to switch to that branch
+
+git commit -am "if i add a before m then we dont need to add the file"   
+
+git checkout master  // this is for switched to master branch
+
+git merge branchname    // for go to master then run the command git merge dev
